@@ -2,6 +2,7 @@
 <title>Mike Tierney's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Traveler (Level 1)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 <item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
 <item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
